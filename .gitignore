@@ -1,0 +1,2 @@
+# Ignore the build files for the package test.
+test_package/build
