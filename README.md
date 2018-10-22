@@ -5,3 +5,7 @@ The package is currently available on this public [conan repository](https://bin
 Full recipe identifier for a `conanfile.txt` is:
 
     cxxopts/2.1.1@jbl/stable
+
+after having added the remote:
+
+    conan remote add <REMOTE-NAME> https://api.bintray.com/conan/jblort/public-jbl
